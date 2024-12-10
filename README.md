@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Martin Ha</h1>
 <h3 align="center">A motivated student driven by a passion for meaningful applications of technical innovation</h3>
 
-- 🔭 I’m currently working on [CSUN ARCS Smart Clothing App](https://github.com/CSU-Northridge-ARCS-Dev/smart-clothing-app)
+- 🔭 I’m currently working at CSUN SAIT.
 
-- 🌱 I’m currently learning **React Native and Firebase.**
+- 🌱 I’m currently learning **Ruby and Ruby on Rails.**
 
 - 📫 How to reach me **martindn.ha@gmail.com**
 
