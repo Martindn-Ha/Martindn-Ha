@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Ha</h1>
 <h3 align="center">A motivated student driven by a passion for meaningful applications of technical innovation</h3>
 
-- 🔭 I’m currently working at **CSUN Student Affairs IT** and **CSUN Autonomy Research Center for STEAHM (ARCS)**.
+- 🔭 I’m currently a senior software developer at **CSUN Student Affairs IT** and an undergraduate researcher at **CSUN Autonomy Research Center for STEAHM (ARCS)**.
 
 - 🌱 I’m currently writing and presenting **research papers**.
 
