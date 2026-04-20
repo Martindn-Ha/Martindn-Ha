@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a senior software developer at **CSUN Student Affairs IT** and an undergraduate researcher at **CSUN Autonomy Research Center for STEAHM (ARCS)**.
 
-- 🌱 I’m currently writing and presenting **research papers**.
+- 🌱 I’m currently writing **research papers**. I'm most likely going to be at **Hackthons**!
 
 - 📫 How to reach me **martindn.ha@gmail.com**
 
